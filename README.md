@@ -12,6 +12,6 @@ year 2020.
 calendar quarter of 2020 precise to 6 places after the decimal.
 - Results should be sorted ascending by algorithm name.
 
-You have the following tables available:
+**You have the following tables available:**
 
   ![14](https://github.com/user-attachments/assets/82738808-6c8a-4334-963f-1f4f5c1c40c0)
