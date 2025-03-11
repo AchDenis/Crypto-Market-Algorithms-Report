@@ -1,4 +1,4 @@
-# Crypto-Market-Algorithms-Report
+# Crypto Market Algorithms Report
 A method to solve the Crypto Market Algorithms Report given by Hacker Ranke for SQL advance certification.
 Below is the requirements provided during the exam:
 
